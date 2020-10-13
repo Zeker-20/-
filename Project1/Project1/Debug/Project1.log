@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\administrator\desktop\第二次上机实验\project1\main.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\administrator\desktop\第二次上机实验\project1\max.h(54): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\administrator\desktop\第二次上机实验\project1\main.cpp(7): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
